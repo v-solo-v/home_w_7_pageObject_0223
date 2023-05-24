@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 public class PracticeFormPageObjectTest extends TestBase {
     @Test
-    void automationPracticeForm () {
+    void automationPracticeForm() {
         String firstName = "Diego";
         String lastName = "Maradona";
         String eMail = "special_one@gmail.ru";
